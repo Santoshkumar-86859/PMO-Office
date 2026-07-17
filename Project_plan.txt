@@ -1,0 +1,21 @@
+Project Plan
+
+
+Objective:
+
+
+Manage project tracking assets centrally.
+
+
+Tasks:
+
+
+1. Maintain inventory records.
+
+
+
+2. Update project plans.
+
+
+
+3. Commit and push changes.
